@@ -1,0 +1,14 @@
+1. Programming in C/C++ .
+2. Database Management System.
+3. System Analysis & Design.
+4. Data Communication & Computer Network.
+5. Microprocessor.
+6. Discreate Mathmatics.
+7. Digital Electronics.
+8. DC Circuit.
+9. Data Structure.
+   10.Electronic Device & Circuits.
+    11.Opearating System.
+  
+     
+
